@@ -37,3 +37,5 @@ function removeElementFromBeginningOfArray(theArray){
   var shortArray = theArray.slice(1);
   return shortArray
 } 
+
+function 
