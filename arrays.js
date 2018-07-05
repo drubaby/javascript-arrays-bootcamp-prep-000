@@ -42,7 +42,7 @@ function destructivelyRemoveElementFromEndOfArray(theArray){
   theArray.pop()
   return theArray
   
-  function removeElementFromEndOfArray(theArray){
+function removeElementFromEndOfArray(theArray){
     return theArray.slice(0, theArray.length - 1)
   } 
 } 
